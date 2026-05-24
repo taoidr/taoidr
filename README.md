@@ -1,4 +1,4 @@
-# 👨‍💻 Hello World, I'm Taofic Idrissou (@tao_officiel)
+# 👨‍💻 Hello World, I'm Taofic Idrissou aka Tao IDR
 
 ```json
 {
