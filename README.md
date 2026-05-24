@@ -26,7 +26,7 @@ Status:
 Experience:
   - 5+ years freelance IT & infrastructure support
   - 99%+ uptime maintenance across client systems
-  - 10+ critical incidents resolved monthly
+  - 10+ incidents resolved monthly
 
 Current_Mission:
   - Transition into SOC & Defensive Security Operations
