@@ -9,7 +9,7 @@
 
 A security-minded IT professional with 5+ years of freelance experience designing, maintaining, and hardening resilient IT infrastructures for small businesses and independent clients.
 
-My background blends **systems administration, defensive cybersecurity, and offensive security research**, with a strong focus on proactive threat mitigation, endpoint security, and infrastructure stability. I am currently transitioning deeper into **Security Operations Center (SOC)** and **Blue Team** environments through intensive hands-on labs, attack simulations, and defensive analysis training.
+My background blends **systems administration, defensive cybersecurity, and offensive security research**, with a strong focus on proactive threat mitigation, endpoint security, and infrastructure stability. I am currently exploring deeper into **Security Operations Center (SOC)** and **Blue Team** environments through intensive hands-on labs, attack simulations, and defensive analysis training.
 
 I believe cybersecurity is not just about reacting to incidents — it's about building systems that are difficult to break in the first place.
 
