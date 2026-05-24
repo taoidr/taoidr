@@ -3,8 +3,6 @@
 ```json
 {
   "title": "Security-Driven IT Specialist",
-  "current_focus": "Transitioning to Junior SOC Analyst / Defensive Cyber Ops",
-  "location": "Lomé, Togo",
   "mindset": "Privacy-first, proactive vulnerability containment"
 }
 A security-minded IT professional with over 5 years of freelance experience keeping small-business infrastructures alive, safe, and resilient. I specialize in bridging the gap between stable IT operations and aggressive security posture. Right now, I am pivoting deeper into defensive security operations, backed by a portfolio of over 100+ simulated warfare and threat mitigation labs.
