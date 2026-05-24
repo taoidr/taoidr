@@ -131,15 +131,13 @@ Core_Focus:
 
 ```bash
 Email      : leim4u17@gmail.com
-X/Twitter  : @tao_officiel
-LinkedIn   : @taofic-security
-Website    : https://taoidr.me
 ```
 
 ### 🔗 Socials
 
 - X/Twitter → https://x.com/tao_officiel
 - LinkedIn → https://linkedin.com/in/taofic-security
+- Website → https://taoidr.me
 
 ---
 
